@@ -1,0 +1,6 @@
+.terraform
+.envrc
+.terraform.lock.hcl
+crash.log
+terraform.tfstate
+terraform.tfstate.backup
